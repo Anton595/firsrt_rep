@@ -13,3 +13,5 @@ rgdfgdf
 *Local text*
 
 Add text in new branch !
+
+решаем конфликт
